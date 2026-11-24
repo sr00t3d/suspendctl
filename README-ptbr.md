@@ -1,5 +1,7 @@
 # suspendctl — CLI Unificada de Suspensão/Reativação de Contas e Manutenção (`v2.0.0`)
 
+![suspendctl cover](suspendctl-cover.webp)
+
 Uma CLI moderna e independente em Bash + Python 3 que unifica em uma única ferramenta **suspender e desuspender** tanto **contas cPanel/Linux** quanto o **modo de manutenção do servidor**, com estado reversível `chmod 600` e saídas `table` / `json` / `csv`.
 
 ## Modernização Histórica

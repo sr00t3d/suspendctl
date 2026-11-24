@@ -1,5 +1,7 @@
 # suspendctl — CLI Unificada de Suspensión y Reactivación (`v2.0.0`)
 
+![suspendctl cover](suspendctl-cover.webp)
+
 Una CLI moderna e independiente en Bash + Python 3 que unifica en una sola herramienta **suspender y reactivar** tanto **cuentas cPanel/Linux** como el **modo de mantenimiento del servidor**, con estado reversible `chmod 600` y salidas `table` / `json` / `csv`.
 
 ## Modernización Histórica

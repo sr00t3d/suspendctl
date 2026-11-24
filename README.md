@@ -1,5 +1,7 @@
 # suspendctl — Unified Account & Maintenance Suspend/Unsuspend CLI (`v2.0.0`)
 
+![suspendctl cover](suspendctl-cover.webp)
+
 A modern, standalone Bash + Python 3 CLI that unifies **suspending and unsuspending** both **cPanel/Linux user accounts** and **host maintenance mode** into one reversible, auditable tool with `table` / `json` / `csv` outputs.
 
 ## Historical Modernization
